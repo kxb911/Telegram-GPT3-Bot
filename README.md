@@ -17,13 +17,13 @@ pip install -r requirements.txt
 
 3. Replace the `<YOUR_BOT_TOKEN>` placeholder with your actual bot token in the `telegram_gpt3_bot.py` file.
 
-# Telegram API key is obtained by chatting with the BotFather
+## Telegram API key is obtained by chatting with the BotFather
 TELEGRAM_API_KEY = "your_telegram_api_key_here"
 
-# OpenAI API Key is obtained by signing up on OpenAI website and requesting access
+## OpenAI API Key is obtained by signing up on OpenAI website and requesting access
 OPENAI_API_KEY = "your_openai_api_key_here"
 
-4. Run the bot:
+## Run the bot:
 python telegram_gpt3_bot.py
 
 ## Deployment
